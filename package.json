@@ -1,0 +1,8 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "author": "Cedric Liera (Lites)",
+  "license": "MIT"
+}
